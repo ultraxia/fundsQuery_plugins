@@ -42,4 +42,4 @@
 
 
 **2018.01.08更新**：初次更新，内容包含查询插件`querry.py`和爬虫`wds_db.py`、`modian_db.py`，配置文件`config.py`
-
+**2018.01.10更新**：紧急修复了`modian_db.py`中需要重复输入proid的BUG，优化了`wds_db.py`、`modian_db.py`的代码结构，增强了可读性

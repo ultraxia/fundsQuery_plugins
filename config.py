@@ -7,7 +7,7 @@ def dbName():
 
 #填入数据表名称
 
-##请自行替换modian_db.py第66行及wds_db.py第60行SQL语句中的表名
+##请自行替换modian_db.py及wds_db.pySQL语句中的表名
 ##预计下一版本会修复
 def tableName():
 	tableName = 'lxyjzdata'
